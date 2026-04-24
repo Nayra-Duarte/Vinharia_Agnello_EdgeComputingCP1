@@ -59,8 +59,6 @@ Caso a luminosidade permaneça inadequada, o buzzer será acionado novamente.
   <img src="circuito.png" width="400">
 </p>
 
----
-
 ## Grupo: SheCodes
 Amanda Lourenço - 572572
 Giovanna Scalzone - 572285
