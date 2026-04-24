@@ -25,7 +25,7 @@ Desenvolver um sistema capaz de:
 - Jumpers.
 
 ### Software
-- [TinkerCad - Simulação (Clique Aqui) ]([URL](https://www.tinkercad.com/things/kR5TqpcOV0D-aula01/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=yo7ERDczB_FpYQilCUzATGfUtgEBM-8MBdWq-g8DhyY))
+- [TinkerCad - Simulação (Clique Aqui)](https://www.tinkercad.com/things/kR5TqpcOV0D-aula01/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=yo7ERDczB_FpYQilCUzATGfUtgEBM-8MBdWq-g8DhyY)
 - Arduino IDE.
 
 ---
