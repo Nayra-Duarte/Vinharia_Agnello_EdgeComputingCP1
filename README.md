@@ -25,7 +25,7 @@ Desenvolver um sistema capaz de:
 - Jumpers.
 
 ### Software
-- Tinkercad (simulação);
+- [TinkerCad - Simulação (Clique Aqui) ]([URL](https://www.tinkercad.com/things/kR5TqpcOV0D-aula01/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=yo7ERDczB_FpYQilCUzATGfUtgEBM-8MBdWq-g8DhyY))
 - Arduino IDE.
 
 ---
@@ -50,6 +50,13 @@ O sensor LDR fornece valores analógicos entre 0 e 1023, que representam a inten
 - **Crítico:** LED vermelho aceso + buzzer ativado por 3 segundos  
 
 Caso a luminosidade permaneça inadequada, o buzzer será acionado novamente.
+
+## Grupo: SheCodes
+Amanda Lourenço - 572572
+Giovanna Scalzone - 572285
+Nayra Duarte - 573815
+Paloma Dantas - 569995
+
 
 ### Circuito do Projeto
 
