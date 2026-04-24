@@ -53,8 +53,6 @@ Caso a luminosidade permaneça inadequada, o buzzer será acionado novamente.
 
 ### Circuito do Projeto
 
-## 📸 Circuito do Projeto
-
 <p align="center">
   <img src="circuito.png" width="400">
 </p>
