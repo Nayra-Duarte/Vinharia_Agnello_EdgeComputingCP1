@@ -51,4 +51,12 @@ O sensor LDR fornece valores analógicos entre 0 e 1023, que representam a inten
 
 Caso a luminosidade permaneça inadequada, o buzzer será acionado novamente.
 
+### Circuito do Projeto
+
+## 📸 Circuito do Projeto
+
+<p align="center">
+  <img src="circuito.png" width="400">
+</p>
+
 ---
