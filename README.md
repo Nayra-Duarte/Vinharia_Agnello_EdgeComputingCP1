@@ -1,4 +1,4 @@
-# Vinharia Agnello - Sistema de Monitoramento do Ambiente
+# Vinheria Agnello - Sistema de Monitoramento do Ambiente
 Este projeto tem como principal objetivo atender às necessidades da Vinheria Agnello, que preza pela qualidade e tradição de seus vinhos. Para isso, foi desenvolvido um sistema de monitoramento de luminosidade utilizando Arduino, capaz de identificar as condições de luz no ambiente e alertar o usuário por meio de LEDs e um buzzer quando os níveis estiverem fora do ideal.
 
 Nesta primeira etapa, o sistema está focado no monitoramento da luminosidade por meio de um sensor LDR (Light Dependent Resistor). Futuramente, a proposta é expandir o projeto para incluir o monitoramento de outras variáveis importantes, como temperatura e umidade do ambiente.
@@ -51,12 +51,7 @@ O sensor LDR fornece valores analógicos entre 0 e 1023, que representam a inten
 
 Caso a luminosidade permaneça inadequada, o buzzer será acionado novamente.
 
-## Grupo: SheCodes
-Amanda Lourenço - 572572
-Giovanna Scalzone - 572285
-Nayra Duarte - 573815
-Paloma Dantas - 569995
-
+---
 
 ### Circuito do Projeto
 
@@ -65,3 +60,11 @@ Paloma Dantas - 569995
 </p>
 
 ---
+
+## Grupo: SheCodes
+Amanda Lourenço - 572572
+Giovanna Scalzone - 572285
+Nayra Duarte - 573815
+Paloma Dantas - 569995
+
+
